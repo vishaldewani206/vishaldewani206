@@ -48,13 +48,8 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishaldewani206&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishaldewani206&layout=compact&theme=tokyonight&cache_seconds=1800" />
-</p>
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=vishaldewani206&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=vishaldewani206&layout=compact&theme=radical)
 
 ---
 
