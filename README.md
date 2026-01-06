@@ -1,16 +1,70 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Vishal</h1>
+<h3 align="center">Web Developer | JavaScript & MERN Enthusiast</h3>
 
-<!--
-**vishaldewani206/vishaldewani206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vishaldewani206&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🎓 Computer Science student  
+- 💻 Web Developer (Frontend + Backend)
+- ⚡ Love building smooth UI animations with **GSAP**
+- 🌱 Currently learning **Backend, System Design & Advanced JavaScript**
+- 🎯 Goal: Build real-world products & grow as a full-stack developer
+
+---
+
+### 🛠️ Tech Stack
+
+**Frontend**
+- HTML, CSS, JavaScript
+- React, Next.js
+- Tailwind CSS
+- GSAP, Framer Motion
+
+**Backend**
+- Node.js
+- Express.js
+- MongoDB
+
+**Tools & Others**
+- Git & GitHub
+- Linux (Ubuntu)
+- VS Code
+- REST APIs
+
+---
+
+### 📌 Featured Projects
+- 🎬 **Movie Social App** – Watchlists, friends, ratings & progress tracking  
+- 🧪 **UMAT Mock Test Platform** – Entry test interface replica  
+- 🛒 **MERN E-Commerce Store** – Buyer, seller & admin roles  
+- ✨ **GSAP Scroll Animations** – High-performance scroll-based effects  
+
+> More projects → check my repositories 👇
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vishaldewani206&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishaldewani206&layout=compact&theme=tokyonight&cache_seconds=1800" />
+</p>
+
+---
+
+### 🤝 Connect With Me
+- 💼 GitHub: https://github.com/vishaldewani206
+- 🌐 Portfolio: vishal-dewani.vercel.app
+- 📧 Email: vishaldewani500@gmail.com
+
+---
+
+<p align="center">
+  <i>“Code. Learn. Build. Repeat.”</i>
+</p>
