@@ -1,22 +1,22 @@
 <h1 align="center">Hi 👋, I'm Vishal</h1>
-<h3 align="center">Web Developer | JavaScript & MERN Enthusiast</h3>
-
+<h3 align="center">MERN Stack Web Developer </h3>
+<h3 align="center">Specialization in Web Animations </h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vishaldewani206&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
-### 🚀 About Me
-- 🎓 Software Engineering student  
-- 💻 Web Developer (Frontend + Backend)
-- ⚡ Love building smooth UI animations with **GSAP**
-- 🌱 Currently learning **Backend, System Design & Advanced JavaScript**
-- 🎯 Goal: Build real-world products & grow as a full-stack developer
+### About Me
+- Software Engineering student  
+- Web Developer (Frontend + Backend)
+- Love building smooth UI animations with **GSAP**
+- Currently learning **Backend, System Design & Advanced JavaScript**
+- Goal: Build real-world products & grow as a full-stack developer
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Frontend**
 - ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -37,15 +37,15 @@
 
 ---
 
-### 📌 Featured Projects
-- 🎬 **Movie Social App** – Watchlists, friends, ratings & progress tracking  
-- 🧪 **UMAT Mock Test Platform** – Entry test interface replica  
-- 🛒 **MERN E-Commerce Store** – Buyer, seller & admin roles  
-- ✨ **GSAP Scroll Animations** – High-performance scroll-based effects  
+### Featured Projects
+- **Movie Social App** – Watchlists, friends, ratings & progress tracking  
+- **UMAT Mock Test Platform** – Entry test interface replica  
+- **MERN E-Commerce Store** – Buyer, seller & admin roles  
+- **GSAP Scroll Animations** – High-performance scroll-based effects  
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=vishaldewani206&theme=radical)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=vishaldewani206&layout=compact&theme=radical)
 
@@ -56,7 +56,7 @@
 
 ---
 
-### 🤝 Connect With Me
-- 💼 GitHub: https://github.com/vishaldewani206
-- 📧 Email: vishaldewani500@gmail.com
+### Connect With Me
+- GitHub: https://github.com/vishaldewani206
+- Email: vishaldewani500@gmail.com
 
