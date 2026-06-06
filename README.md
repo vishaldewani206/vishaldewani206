@@ -1,9 +1,3 @@
-<!--
-  ╔══════════════════════════════════════════════════════════════╗
-  ║                    VISHAL DEWANI — README                   ║
-  ╚══════════════════════════════════════════════════════════════╝
--->
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=80&lines=VISHAL+DEWANI" alt="Vishal Dewani" />
@@ -12,6 +6,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-vishal--dewani.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://vishal-dewani.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-vishaldewani206-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vishaldewani206)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vishal--dewani-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishal-dewani)
 [![Email](https://img.shields.io/badge/Email-vishaldewani500@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vishaldewani500@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=vishaldewani206&label=Profile+Views&color=0d1117&style=flat-square)](https://github.com/vishaldewani206)
 
@@ -21,9 +16,10 @@
 
 ## About
 
-Software Engineering student and full-stack web developer with a focus on crafting smooth, high-performance user interfaces. I specialize in the MERN stack and have a particular interest in web animations — building experiences that feel alive through GSAP-powered scroll effects and motion design.
+Full-stack developer specializing in the MERN stack and Next.js with a focus on performant, animation-driven interfaces. I've shipped 15+ projects across freelance and
+professional engagements from REST API backends to GSAP-powered React UIs.
 
-Currently deepening my knowledge in backend architecture, system design, and advanced JavaScript patterns. My goal is to build real-world products that are both technically solid and visually compelling.
+Currently learning backend architecture, system design, and scalable application development while building real-world products and developer tools.
 
 ---
 
@@ -36,6 +32,7 @@ Currently deepening my knowledge in backend architecture, system design, and adv
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
@@ -48,13 +45,12 @@ Currently deepening my knowledge in backend architecture, system design, and adv
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
-**Tools & Languages**
+**Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
 ---
 
@@ -73,9 +69,10 @@ Currently deepening my knowledge in backend architecture, system design, and adv
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vishaldewani206&theme=dark&hide_border=true&background=0d1117&stroke=30363d&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&currStreakNum=ffffff&sideNums=ffffff&dates=555555)
+![GitHub Streak](https://streak-stats.demolab.com?user=vishaldewani206&theme=dark&hide_border=true&background=0d1117&stroke=ffffff&ring=ffffff&fire=39FF6A&currStreakLabel=ffffff&sideLabels=888888&dates=888888)
 
 ![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vishaldewani206&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888&langs_count=8)
+
 
 </div>
 
